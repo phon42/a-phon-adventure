@@ -1,1 +1,1 @@
-[{"title":"Set Out from Bùrsa","description":"","time":3578462},{"title":"Found the Mountain","description":"","time":3686549}]
+[{"title":"Set Out from Bùrsa","description":"","time":3578462},{"title":"Found the Mountain","description":"","time":3686549},{"title":"Met Bitholomew","description":"","time":3711462}]
